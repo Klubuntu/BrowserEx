@@ -1,5 +1,6 @@
 # Privacy Policy
 BrowserEx using standard Privacy and GPDR Terms. 
+
 This App no collect special user data.
 
 Special Privacy Policy:
