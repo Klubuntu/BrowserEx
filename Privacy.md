@@ -3,7 +3,7 @@ BrowserEx using standard Privacy and GPDR Terms.
 This App no collect special user data.
 
 Special Privacy Policy:
-<p>At BrowserEx, accessible from https://github.com/Klubuntu/BrowserEx/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by BrowserEx and how we use it.</p>
+<p>At BrowserEx, accessible from https://github.com/Klubuntu/BrowserEx/ or BrowserEx app, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by BrowserEx and how we use it.</p>
 
 <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
 
