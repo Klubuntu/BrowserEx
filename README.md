@@ -1,5 +1,6 @@
 # BrowserEx
 This version work only Android.
+
 Lite Browser - Make your modern look.
 
 Changelog:
