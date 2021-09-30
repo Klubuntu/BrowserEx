@@ -13,4 +13,5 @@ Released Alpha 1.5
 https://github.com/Klubuntu/BrowserEx/issues
 
 Thank you for using.
+
 Powered by Klubuntu
