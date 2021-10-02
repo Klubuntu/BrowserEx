@@ -18,6 +18,8 @@ New version released  **Beta 1.9**
 
 > add PC mode in (Settings)
 
+> add circle progress bar loading page on top bar
+
 > display version on menu
 
 
