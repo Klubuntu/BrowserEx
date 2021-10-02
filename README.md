@@ -5,7 +5,33 @@ Lite Browser - Make your modern look.
 
 Changelog:
 
-New version released **Alpha 1.85**
+
+New version released  **Beta 1.9**
+
+> fixed menu
+
+> fixed searcher
+
+> move searcher to (Tools)
+
+> add cache mode in (Settings)
+
+> add PC mode in (Settings)
+
+> display version on menu
+
+
+In the next release
+> add dark mode
+
+> add custom user agent
+
+> fix founded bugs
+
+> user issues/bugs
+
+
+Next version released **Alpha 1.85**
 
 > created new menu
 
