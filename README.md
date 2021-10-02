@@ -28,6 +28,8 @@ In the next release
 
 > add custom user agent
 
+> optimize app
+
 > fix founded bugs
 
 > user issues/bugs
