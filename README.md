@@ -1,60 +1,44 @@
 # BrowserEx
-This version work only Android.
+This version works only on Android.
 
 Lite Browser - Make your modern look.
 
-Changelog:
+## Changelog:
 
 
-New version released  **Beta 1.9**
+### New version released  **Beta 1.9**
 
-> fixed menu
+- fixed menu
+- fixed searcher
+- move searcher to (Tools)
+- add cache mode in (Settings)
+- add PC mode in (Settings)
+- add circle progress bar loading page on top bar
+- display version on menu
 
-> fixed searcher
+### Soon (on the next release)
+- add dark mode
+- add custom user agent
+- optimize app
+- fix founded bugs
+- user issues/bugs
 
-> move searcher to (Tools)
+### Next version released **Alpha 1.85**
 
-> add cache mode in (Settings)
+- created new menu
+- added refresh page option
+- added option change browser click (Tools) to change browser selected from spinner
+- prelease menu version
 
-> add PC mode in (Settings)
-
-> add circle progress bar loading page on top bar
-
-> display version on menu
-
-
-In the next release
-> add dark mode
-
-> add custom user agent
-
-> optimize app
-
-> fix founded bugs
-
-> user issues/bugs
-
-
-Next version released **Alpha 1.85**
-
-> created new menu
-
-> add refresh page option
-
-> added option change browser click (Tools) to change browser selected from spinner
-
-> prelease menu version
-
-
-Released Alpha 1.5
-
-> created new design
-
-> publish app
+### Released Alpha 1.5
+- created new design
+- publish app
 
 ### Report Issues/Bugs:
 https://github.com/Klubuntu/BrowserEx/issues
 
 Thank you for using
-
+<hr>
 Powered by Klubuntu
+
+Love ❤️ with code 
